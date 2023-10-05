@@ -1,0 +1,40 @@
+body {
+  margin: 20px;
+  background-color: darkturquoise;
+  
+  
+}
+.header{
+  padding-top:20px;
+  padding-left:100px;
+ background-color:blue; 
+}
+
+* {
+  color: pink;
+}
+ 
+main{
+  color: white: 
+  text-align: center;
+}
+  
+h1 { 
+  font-family: 'Julius Sans One', sans-serif;
+  color:palegoldenrod;
+
+ 
+  font-weight: 300; 
+  font-size: 1.2cm;
+  transform:scale(1,1.15); 
+  margin-bottom: 0.2cm;
+  margin-top: 0.2cm;
+  text-transform: uppercase;
+  
+}
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  color:white;
+}
+
+          
